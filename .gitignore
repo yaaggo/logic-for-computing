@@ -1,0 +1,11 @@
+# Ignora a pasta build
+/build/
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+/logic_eval
+/logic_eval.exe
+/logic_eval.c
