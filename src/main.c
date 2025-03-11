@@ -1,6 +1,10 @@
 #include "../include/eval.h"
 #include "../include/validation.h"
 
+// to do:
+// - lembrar de trocar o sprintf para tirar os warnings de segurança
+// - ...
+
 int main() {
     char expression[MAX_EXPR];
 
